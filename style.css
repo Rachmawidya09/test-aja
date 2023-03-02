@@ -1,0 +1,27 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #d4e2e9;
+  font-family: "Gloock", serif;
+}
+
+.navbar {
+  font-size: large;
+  font-family: "heebo", serif;
+}
+
+#About {
+  background-color: #d4e2e9;
+  font-family: "Lato", serif;
+}
+
+#Project {
+  background-color: #c3dae5;
+  font-family: "Lato", serif;
+}
+
+#contact {
+  background-color: #d4e2e9;
+}
